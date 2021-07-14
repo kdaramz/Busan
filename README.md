@@ -1,5 +1,5 @@
 # Busan
-First custom Xcode theme inspired by Haeundae beach at Busan.
+First custom Xcode theme inspired by Haeundae beach in Busan.
 
 Demo : [Official Sample Code - Using Suggested Searches with a Search Controller](https://developer.apple.com/documentation/uikit/view_controllers/using_suggested_searches_with_a_search_controller/)
 
