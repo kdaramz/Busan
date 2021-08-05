@@ -3,6 +3,8 @@ First custom Xcode theme inspired by Haeundae beach at Busan.
 
 Demo : [Official Sample Code - Using Suggested Searches with a Search Controller](https://developer.apple.com/documentation/uikit/view_controllers/using_suggested_searches_with_a_search_controller/)
 
+Used Font : [Spot Mono](https://www.schick-toikka.com/spot-mono) included [with macOS](https://support.apple.com/en-us/HT210192)
+
 <img width="1089" alt="Demo" src="https://user-images.githubusercontent.com/73573732/125541839-4aabf3dc-b7e1-484f-a73b-6fc4613884d3.png">
 
 ## How to install?
