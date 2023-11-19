@@ -37,7 +37,7 @@
 	<key>DVTFontSizeModifier</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
-	<real>1.2000000476837158</real>
+	<real>1.8</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
 	<key>DVTMarkupTextBorderColor</key>
