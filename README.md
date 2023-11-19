@@ -3,16 +3,16 @@ Custom Xcode light theme inspired by Haeundae beach in Busan.
 
 Demo : [Official Sample Code - Using Suggested Searches with a Search Controller](https://developer.apple.com/documentation/uikit/view_controllers/using_suggested_searches_with_a_search_controller/)
 
-Used Font : [Spot Mono](https://www.schick-toikka.com/spot-mono) included [with macOS](https://support.apple.com/en-us/HT210192)
+Used Font : [JetBrains Mono](https://www.jetbrains.com/lp/mono/) provided by [JetBrains](https://www.jetbrains.com/)
 
-<img width="1089" alt="Demo" src="https://user-images.githubusercontent.com/73573732/125541839-4aabf3dc-b7e1-484f-a73b-6fc4613884d3.png">
+<img width="1650" alt="Demo" src="https://github.com/kdaramz/Busan/assets/73573732/832359d0-705c-4a04-80c5-8d42fc60eb3c">
 
 ## How to install?
 
 1.  Copy repository URL and clone this repository to your mac.
 
     ```shell
-    git clone https://github.com/Journey36/Busan.git
+    git clone https://github.com/kdaramz/Busan.git
     ```
 
 2.  Create the folder named `FontAndColorThemes` at path below : (If the folder exists, pass this step!)
@@ -25,6 +25,4 @@ Used Font : [Spot Mono](https://www.schick-toikka.com/spot-mono) included [with 
 
 4.  Done!
 
-
-
-***Designed by Jaehyeon Kim(Glenn) in Republic of Korea***
+***Designed by kdaramz in Republic of Korea***
